@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanika Ravso Shinde
 - 👀 I’m interested in Data Science and Visualizing
 - 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on Machine Learning Algorithms
+- 💞️ I’m looking to collaborate Innovation network
 - 📫 How to reach me via mail shindesanika04@gmail.com
 
 <!---
